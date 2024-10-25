@@ -70,7 +70,7 @@ st.markdown(
 )
 
 # Streamlit app title
-st.markdown('<h1 class="title">Medical Image Classification</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title">Medical Image hierarchical  Classification</h1>', unsafe_allow_html=True)
 
 # File uploader for the image
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
