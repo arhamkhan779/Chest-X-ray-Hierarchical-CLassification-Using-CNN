@@ -38,8 +38,8 @@ st.markdown(
     """
     <style>
     .reportview-container {
-        background: #f0f4f8; /* Light background */
-        color: #333; /* Dark text for contrast */
+        background: #000000; /* Black background */
+        color: #ffffff; /* White text for contrast */
     }
     .stFileUploader {
         margin: 20px 0;
@@ -48,7 +48,7 @@ st.markdown(
         text-align: center;
         font-size: 36px;
         margin: 20px 0;
-        color: #4A90E2; /* Blue color for the title */
+        color: #4A90E2; /* Light blue color for the title */
     }
     .output {
         font-size: 20px;
