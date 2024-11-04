@@ -4,6 +4,11 @@
 
 This repository contains a Hierarchical Convolutional Neural Network (CNN) model designed for hierarchical classification tasks. This architecture leverages deep learning techniques to improve accuracy in categorizing complex data.
 
+## 🎥 Demo Video
+
+Watch the demo of the Hierarchical CNN Model in action:  
+[![Watch the video](https://youtu.be/qltr3yen6qQ?si=way5EbxC5LAkOzpS)
+
 ## 🛠️ Workflows
 
 To get started with the project, follow these steps:
