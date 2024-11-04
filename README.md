@@ -7,7 +7,7 @@ This repository contains a Hierarchical Convolutional Neural Network (CNN) model
 ## 🎥 Demo Video
 
 Watch the demo of the Hierarchical CNN Model in action:  
-[![Watch the video](https://www.youtube.com/watch?v=qltr3yen6qQ)
+[![Watch the video](https://img.youtube.com/vi/qltr3yen6qQ/0.jpg)](https://youtu.be/qltr3yen6qQ?si=CYs59o5vYaQIR0HW)
 
 ## 🛠️ Workflows
 
